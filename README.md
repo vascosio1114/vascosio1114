@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vasco (Sio Kei Chon)
+[# 👋 Hi, I'm Vasco (Sio Kei Chon)
 
 🎓 Year 2 Student @ University of Toronto  
 📍 Toronto / Macau  
@@ -38,3 +38,4 @@
 ## 📫 Contact
 📧 Email: keichonsio1114@gmail.com 
 🌐 GitHub: https://github.com/vascosio1114  
+](https://github.com/weishanlee/pinnGraphene)
