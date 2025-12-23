@@ -1,4 +1,4 @@
-[# 👋 Hi, I'm Vasco (Sio Kei Chon)
+# 👋 Hi, I'm Vasco (Sio Kei Chon)
 
 🎓 Year 2 Student @ University of Toronto  
 📍 Toronto / Macau  
@@ -7,23 +7,25 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **SQL, Python**
+- 🌱 Currently learning **SQL and Python**
 - 📊 Exploring the path toward **Data Analyst / Software Developer**
-- 🏫 Actively improving my coding fundamentals & building small projects
+- 🏫 Actively strengthening my coding fundamentals through coursework and self-learning
 - 🎯 Goal: Build real-world data projects and become industry-ready
 
 ---
 
 ## 📚 Learning Paths
-🔹 **SQL-Learning-Path** — Mastering SELECT, JOIN, GROUP BY, subqueries  
+🔹 **SQL-Learning-Path** — Practising SELECT, JOIN, GROUP BY, subqueries  
 🔹 **Python-Learning-Path** — Variables, loops, functions, and problem solving  
-🔹 Future repo: **Data Projects**, **APIs**, **Web scraping**, **Mini apps**
+🔹 Future focus: **Data Projects**, **APIs**, **Web scraping**, **Mini apps**
 
 ---
 
 ## 📂 Featured Projects
 | Project | Description |
 |--------|-------------|
+| **[Gaze-Controlled Wheelchair Interaction](https://github.com/vascosio1114/gaze-controlled-wheelchair)** | Academic project exploring gaze- and gesture-based control methods for assistive wheelchairs. Contributed to documentation, testing, and implementation support. |
+| **[PINN Graphene (Collaboration)](https://github.com/weishanlee/pinnGraphene)** | Collaborated on a physics-informed neural network (PINN) project for graphene modelling. Assisted with code testing, implementation support, and review. |
 | 🔜 More coming soon | Building step by step |
 
 ---
@@ -31,11 +33,10 @@
 ## 📈 GitHub Stats
 ![Vasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vascosio1114&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vascosio1114&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vascosio1114&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
-📧 Email: keichonsio1114@gmail.com 
-🌐 GitHub: https://github.com/vascosio1114  
-](https://github.com/weishanlee/pinnGraphene)
+📧 Email: keichonsio1114@gmail.com  
+🌐 GitHub: https://github.com/vascosio1114
