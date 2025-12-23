@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vasco (Sio Kei Chon)
+# 👋 Hi, I'm Vasco (Kei Chon Sio)
 
 🎓 Year 2 Student @ University of Toronto  
 📍 Toronto / Macau  
