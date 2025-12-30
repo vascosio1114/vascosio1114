@@ -22,11 +22,19 @@
 ---
 
 ## 📂 Featured Projects
+
 | Project | Description |
 |--------|-------------|
+| **[CityStart (MVP)](https://github.com/vascosio1114/citystart-mvp)** | A city-based starter guide for international students, curating essential apps and services. Built a full MVP including data pipeline (Excel → JSON via Python), a static web interface (HTML/CSS/JS), filtering & search features, and deployed via GitHub Pages. |
 | **[Gaze-Controlled Wheelchair Interaction](https://github.com/vascosio1114/gaze-controlled-wheelchair)** | Academic project exploring gaze- and gesture-based control methods for assistive wheelchairs. Contributed to documentation, testing, and implementation support. |
 | **[PINN Graphene (Collaboration)](https://github.com/weishanlee/pinnGraphene)** | Collaborated on a physics-informed neural network (PINN) project for graphene modelling. Assisted with code testing, implementation support, and review. |
 | 🔜 More coming soon | Building step by step |
+
+---
+
+## 🌐 Live Demos
+- **CityStart (Toronto MVP)**  
+  👉 https://vascosio1114.github.io/citystart-mvp/
 
 ---
 
