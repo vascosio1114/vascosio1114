@@ -33,15 +33,8 @@
 ---
 
 ## 🌐 Live Demos
-- **CityStart (Toronto MVP)**  
+- **CityStart**  
   👉 https://vascosio1114.github.io/citystart-mvp/
-
----
-
-## 📈 GitHub Stats
-![Vasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vascosio1114&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vascosio1114&layout=compact&theme=tokyonight)
 
 ---
 
