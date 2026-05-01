@@ -62,6 +62,14 @@ After completing GGR376H5, I applied spatial data science concepts to real **Tor
 
 ---
 
+
+### 🗺️ [CaféTO Spatial Analysis — GGR376H5 Final Project](https://github.com/vascosio1114/ggr376-cafeto-spatial-analysis)
+*Final Project — GGR376H5 Geographic Information Science II · Winter 2025 · Group 15*
+
+For the final project in GGR376H5, my group investigated whether CaféTO outdoor café permits are spatially concentrated in wealthier neighbourhoods across Toronto's 158 neighbourhood units. Using Toronto Open Data, we applied spatial joins, global Moran's I (I ≈ 0.60, p = 0.001), LISA clustering, and SKATER regionalization — confirming a clear spatial pattern linking permit density to median household income.
+
+**Methods applied:** GeoPandas spatial join · Global & Local Moran's I · LISA cluster maps · SKATER regionalization (5 clusters)
+
 ## 🛠️ Side Projects & Learning-by-Doing
 
 Stuff I built to learn — picking up web dev, data pipelines, and full-stack skills along the way.
