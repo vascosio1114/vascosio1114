@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vasco (Kei Chon Sio)
 
-🎓 Year 4 · GIS & Statistics Double Major @ University of Toronto Mississauga
+🎓 Year 4 · GIS & Statistics Double Major @ University of Toronto
 📍 Toronto / Macau
 🌏 Building at the intersection of **spatial data**, **statistics**, and **full-stack development**
 
