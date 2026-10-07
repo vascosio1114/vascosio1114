@@ -1,153 +1,100 @@
-# 👋 Hi, I'm Vasco (Kei Chon Sio)
+# Hi, I'm Vasco (Kei Chon Sio)
 
-🎓 Year 4 · GIS & Statistics Double Major @ University of Toronto 📍 Toronto / Macau 🌏 Building at the intersection of **spatial data**, **statistics**, and **full-stack development**
-
----
-
-## 🚀 About Me
-
-- 🗺️ Studying **Geographic Information Science (GIS)** and **Statistics** — combining spatial thinking with data-driven methods
-- 💡 Interested in **spatial data science**, **web development**, and **applied machine learning**
-- 🏙️ From Macau — deeply connected to the Greater Bay Area and Macau startup ecosystem
-- 🔬 Research collaborator on physics-informed neural networks (PINN) — co-authored arXiv paper
-- 🎯 Goal: Build impactful, data-informed products that bridge the gap between academic rigour and real-world use
+Year 4 · GIS & Statistics double major @ University of Toronto Mississauga
+Toronto / Macau · Building at the intersection of **spatial data**, **statistics**, and **full-stack development**
 
 ---
 
-## 🏅 Research & Award Projects
+## About Me
 
-> Projects I'm proud of — involving real research, publications, or competition recognition.
-
-### ♿ Gaze & Gesture Controlled Wheelchair
-
-**High school independent research project (2022)**
-
-A vision-based assistive wheelchair control system using eye-gaze tracking and hand gesture recognition, designed to help individuals with severe motor impairments navigate without traditional physical input devices. The system estimates gaze direction from sclera ratios and uses gesture recognition as a safety confirmation layer.
-
-🥇 Gold Medal — INNOVERSE EXPO (USA) &nbsp; 🥇 Gold Medal — 1 Idea 1 World Invention Competition (Turkey)
-
-> Presented as: *"Intelligent Wheelchair for Patients with Acromegaly"*
-
-**Stack:** Python · OpenCV
+- Technical co-founder of **[Radar AI Studio](https://radaraistudio.com)**, a two-person digital agency in Macau offering web design, SEO, branding, and AI / business automation for local SMEs. I lead the technical, development, and AI work.
+- Studying **Geographic Information Science (GIS)** and **Statistics**, combining spatial thinking with data-driven methods.
+- Interested in spatial data science, web development, and applied machine learning.
+- From Macau, connected to the Greater Bay Area and the Macau startup ecosystem.
+- Research collaborator on a physics-informed neural network (PINN) project, co-authored arXiv paper.
+- Goal: build data-informed products that bridge academic rigour and real-world use.
 
 ---
 
-### 🧠 Symmetry-Constrained PINN for Graphene Band Structure
+## Research & Award Projects
 
-**Research collaboration — arXiv preprint (2025)**
+### Symmetry-Constrained PINN for Graphene Band Structure
 
-Collaborated on a physics-informed neural network (PINN) project predicting graphene's electronic band structure with <2% error. The model enforces D6h crystallographic symmetry using group averaging and uses a multi-head ResNet architecture with adaptive blending across the Brillouin zone.
+**Research collaboration · arXiv preprint (2025)**
 
-📄 [arXiv:2508.10718](https://arxiv.org/abs/2508.10718) — *Symmetry-Constrained Multi-Scale Physics-Informed Neural Networks for Graphene Electronic Band Structure Prediction*
+A physics-informed neural network that predicts graphene's electronic band structure with <2% error. The model enforces D6h crystallographic symmetry using group averaging and uses a multi-head ResNet architecture with adaptive blending across the Brillouin zone.
 
-> My role: Implementation support, code testing, documentation, and technical discussions.
+Paper: [arXiv:2508.10718](https://arxiv.org/abs/2508.10718) · Code: [pinnGraphene](https://github.com/vascosio1114/pinnGraphene)
+My role: implementation support, code testing, documentation, and technical discussions.
 
 **Stack:** Python · PyTorch · CUDA
 
 ---
 
-## 📚 University Learning — GIS & Statistics Coursework
+### Gaze & Gesture Controlled Wheelchair
 
-> Projects built through my degree at UofT, applying what I learned in the classroom to real data.
+**High school independent research project (2022)**
 
-### 🗺️ Toronto Crime Spatial Analysis
+A vision-based assistive wheelchair control system using eye-gaze tracking and hand gesture recognition, designed for people with severe motor impairments. Gaze direction is estimated from sclera ratios, and gesture recognition acts as a safety confirmation layer.
 
-**Applied project from GGR376H5 — Spatial Data Science**
+Gold Medal, INNOVERSE EXPO (USA) · Gold Medal, 1 Idea 1 World Invention Competition (Turkey)
+Code: [gaze-gesture-controlled-wheelchair](https://github.com/vascosio1114/gaze-gesture-controlled-wheelchair)
 
-After completing GGR376H5, I applied spatial data science concepts to real Toronto Police Open Data to build interactive crime visualisations for 2020–2024. The project put course theory into practice: spatial dependence, kernel density estimation, coordinate reference systems, and exploratory spatial analysis — with a discussion on spatial ethics and neighbourhood stigma.
-
-**What I built:** Interactive cluster map (colour-coded by crime type) · KDE heatmap on dark basemap · Statistical charts (type distribution, year-over-year trend, monthly seasonality)
-
-**Stack:** Python · GeoPandas · Folium · Matplotlib · Seaborn · Toronto Open Data API
+**Stack:** Python · OpenCV
 
 ---
 
-### 🗺️ CaféTO Spatial Analysis — GGR376H5 Final Project
+## Spatial Data Science
 
-**Final Project — GGR376H5 Geographic Information Science II · Winter 2025 · Group 15**
+### Toronto Crime Spatial Analysis
 
-For the final project in GGR376H5, my group investigated whether CaféTO outdoor café permits are spatially concentrated in wealthier neighbourhoods across Toronto's 158 neighbourhood units. Using Toronto Open Data, we applied spatial joins, global Moran's I (I ≈ 0.60, p = 0.001), LISA clustering, and SKATER regionalization — confirming a clear spatial pattern linking permit density to median household income.
+**Applied project after GGR376H5 (Spatial Data Science)**
 
-**Methods applied:** GeoPandas spatial join · Global & Local Moran's I · LISA cluster maps · SKATER regionalization (5 clusters)
+Interactive crime visualisations for 2020-2024 built on Toronto Police Open Data, applying spatial dependence, kernel density estimation, coordinate reference systems, and exploratory spatial analysis, with a discussion of spatial ethics and neighbourhood stigma.
 
----
+Built: interactive cluster map by crime type · KDE heatmap · charts for type distribution, yearly trend, and seasonality
+Code: [toronto-crime-map](https://github.com/vascosio1114/toronto-crime-map)
 
-## 🛠️ Side Projects & Learning-by-Doing
-
-> Stuff I built to learn — picking up web dev, data pipelines, and full-stack skills along the way.
-
-### 🏥 Nursing Vital Signs Practice Records
-
-**Personal project — currently building**
-
-A bilingual (English/Traditional Chinese) web app for nursing teachers to teach adult patient vital signs procedures and collect student practice records. Features an interactive checklist, a full student submission form with abnormal-value warnings, and a password-protected teacher dashboard with search, filtering, CSV & styled Excel export. Built with a Supabase Postgres backend with Row Level Security.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · ExcelJS
+**Stack:** Python · GeoPandas · Folium · Matplotlib · Seaborn
 
 ---
 
-### 📡 AI Radar — 繁中 AI 資訊平台
+### CaféTO Spatial Analysis
 
-**Personal project — currently building**
+**Final project, GGR376H5 · Winter 2025 (group project)**
 
-A Traditional Chinese AI news, tools, tutorials, and trend analysis platform. High-end black/white/tech-blue design (Apple + OpenAI + Notion style), dark mode by default, glassmorphism + glow animations, fully responsive, and SEO-ready. Backed by Supabase for auth, content storage, and a roadmap covering full CRUD admin, Markdown rendering, full-text search, and a RAG-powered AI chatbot.
+Are CaféTO outdoor café permits spatially concentrated in wealthier Toronto neighbourhoods? Using Toronto Open Data across 158 neighbourhood units, we applied spatial joins, global Moran's I (I ≈ 0.60, p = 0.001), LISA clustering, and SKATER regionalization, and found a clear spatial pattern linking permit density to median household income.
+
+Code: [ggr376-cafeto-spatial-analysis](https://github.com/vascosio1114/ggr376-cafeto-spatial-analysis)
+
+**Methods:** GeoPandas spatial join · Global & Local Moran's I · LISA cluster maps · SKATER
+
+---
+
+## Web & Product
+
+### AI Radar
+
+A Traditional Chinese platform for AI news, tools, tutorials, and trend analysis. Dark-mode-first design, responsive layout, SEO-ready, with Supabase for auth and content storage.
+
+[Live site](https://ai-radar-wheat.vercel.app) · [Code](https://github.com/vascosio1114/ai-radar-news-website)
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · Supabase
 
 ---
 
-### 🏙️ CareerMate Macau
-
-**Personal project — currently building (Phase 3 of 9)**
-
-Wanted to see if I could actually build a full app from scratch, so I started building a career networking platform for Macau students, fresh grads, mentors, and startups. It has Supabase auth (signup/login/logout), a Cantonese UI, and a proper Next.js project structure. Still a work in progress — learning as I go.
-
-**Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
-
----
-
-### 🏆 My Collection Vault
-
-**Personal project — [Live Site](https://vascosio1114.github.io/my-collection/)**
-
-Built a web app to catalogue and show off my personal collection of NBA cards, Pokémon cards, jerseys, and toys. Has a dashboard with value analytics, search/filter, donut chart breakdowns by category, and a password-protected admin panel to manage items. A fun way to learn vanilla JS and frontend layout.
-
-**Stack:** HTML · CSS · JavaScript · GitHub Pages
-
----
-
-### 🌍 CityStart
-
-**Personal project — [Live Site](https://vascosio1114.github.io/citystart-mvp/)**
-
-Started this as a way to practice Python data pipelines and basic web development — built a city-based app guide for international students, with data stored in JSON (converted from Excel via Python) and a static frontend with city selector, category filtering, and keyword search.
-
-**Stack:** Python · HTML/CSS/JS · GitHub Pages
-
----
-
-### 🌐 Greater Bay Area Website
-
-**Personal project**
-
-A simple multi-page static website about the 11 Greater Bay Area cities. Built this when I was learning HTML/CSS — good practice for structuring multi-page sites with consistent navigation.
-
-**Stack:** HTML · CSS
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 | | |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · SQL · R · HTML/CSS |
+| ------------------ | ----------------------------------------------------- |
+| **Languages**      | Python · TypeScript · JavaScript · SQL · R · HTML/CSS |
 | **Spatial & Data** | GeoPandas · Folium · Matplotlib · Seaborn · pandas · ArcGIS |
-| **Web & Backend** | Next.js · React · Supabase · Node.js · Tailwind CSS |
-| **Tools** | Git · Jupyter · GitHub Pages · Vercel |
+| **Web & Backend**  | Next.js · React · Supabase · Node.js · Tailwind CSS   |
+| **Tools**          | Git · Jupyter · GitHub Pages · Vercel                 |
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 Email: keichonsio1114@gmail.com  
-🌐 GitHub: [github.com/vascosio1114](https://github.com/vascosio1114)
+Email: keichonsio1114@gmail.com
+GitHub: [github.com/vascosio1114](https://github.com/vascosio1114)
